@@ -1,5 +1,20 @@
 <h2 align="center">ENEM</h2>
 
+<p align="center">
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/license/MagicalStrangeQuark/ENEM">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/languages/count/MagicalStrangeQuark/ENEM">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/last-commit/MagicalStrangeQuark/ENEM">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social">
+    </a>
+</p>
+
 <p align="center">Repository containing exam questions</p>
 
 <h6 align="center">DONE</h6>
